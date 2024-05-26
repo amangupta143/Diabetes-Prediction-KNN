@@ -1,5 +1,7 @@
 # Diabetes Prediction KNN Model
 
+![Diabetes Prediction Model](https://github.com/amangupta143/Diabetes-Prediction-KNN/assets/109453339/69e89fbf-683f-461d-8198-9ee2f04c7ab2)
+
 This repository contains a Jupyter Notebook (`Diabetes-Prediction-Model.ipynb`) for building a K-Nearest Neighbors (KNN) model to predict diabetes based on patient data.
 
 ## Table of Contents
