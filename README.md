@@ -2,7 +2,7 @@
 
 ![Diabetes Prediction Model](https://github.com/amangupta143/Diabetes-Prediction-KNN/assets/109453339/69e89fbf-683f-461d-8198-9ee2f04c7ab2)
 
-This repository provides a K-Nearest Neighbors (KNN) model "`trained_model.sav`" for diabetes prediction using patient data, along with a Streamlit web application `Diabetes_Prediction_Web_App.py` for interactive risk assessment.
+This repository provides a K-Nearest Neighbors (KNN) model `trained_model.sav` for diabetes prediction using patient data, along with a Streamlit web application `Diabetes_Prediction_Web_App.py` for interactive risk assessment.
 
 ## Table of Contents
 - Objective
