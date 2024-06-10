@@ -80,7 +80,7 @@ These models are not meant for sole diagnosis but can be a valuable tool for ris
 
 ## Using the Web App:
 This project also includes a web application built with Streamlit.  Here's how to use it:
-1. Ensure you have Python and Streamlit installed.
+1. Ensure you have `Python` and `Streamlit` installed.
 2. Open a terminal or command prompt and navigate to the project directory.
 3. Run the web application:
    ```bash
