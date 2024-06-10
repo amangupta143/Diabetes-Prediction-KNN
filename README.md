@@ -83,9 +83,8 @@ This project also includes a web application built with Streamlit.  Here's how t
 1. Ensure you have Python and Streamlit installed.
 2. Open a terminal or command prompt and navigate to the project directory.
 3. Run the web application:
-```bash
+   ```bash
    streamlit run Diabetes_Prediction_Web_App.py
-```
 4. A web interface will open in your default browser, allowing you to enter patient data and receive a diabetes risk prediction.
 
 ## Contributing
