@@ -1,8 +1,8 @@
-# Diabetes Prediction KNN Model
+# Diabetes Prediction KNN Model and Web App
 
 ![Diabetes Prediction Model](https://github.com/amangupta143/Diabetes-Prediction-KNN/assets/109453339/69e89fbf-683f-461d-8198-9ee2f04c7ab2)
 
-This repository contains a Jupyter Notebook (`Diabetes-Prediction-Model.ipynb`) for building a K-Nearest Neighbors (KNN) model to predict diabetes based on patient data.
+This repository provides a K-Nearest Neighbors (KNN) model `trained_model.sav` for diabetes prediction using patient data, along with a Streamlit web application `Diabetes_Prediction_Web_App.py` for interactive risk assessment.
 
 ## Table of Contents
 - Objective
@@ -10,9 +10,10 @@ This repository contains a Jupyter Notebook (`Diabetes-Prediction-Model.ipynb`) 
 - Features
 - Model
 - Benefits
-- Getting Started
+- Getting Started (Jupyter Notebook)
+- Using the Web App
 - Contributing
-
+- Licence
 
 ## Objective
 This repository aims to:
@@ -59,7 +60,7 @@ This diabetes prediction model offers several advantages:
 These models are not meant for sole diagnosis but can be a valuable tool for risk assessment.
 
 
-## Getting Started
+## Getting Started (Jupyter Notebook)
 1. Clone this repository:
    ```bash
    git clone https://github.com/amangupta143/Diabetes-Prediction-KNN.git
@@ -77,9 +78,21 @@ These models are not meant for sole diagnosis but can be a valuable tool for ris
 - In the Jupyter Notebook interface, open the Diabetes-Prediction-Model.ipynb file.
 - Run each code cell (block of code) by pressing `Shift + Enter`. The output of the code will be displayed below the cell.
 
+## Using the Web App:
+This project also includes a web application built with Streamlit.  Here's how to use it:
+1. Ensure you have Python and Streamlit installed.
+2. Open a terminal or command prompt and navigate to the project directory.
+3. Run the web application:
+   ```bash
+   streamlit run Diabetes_Prediction_Web_App.py
+4. A web interface will open in your default browser, allowing you to enter patient data and receive a diabetes risk prediction.
+
 ## Contributing
 
 I welcome contributions to this repository! If you have ideas for improvement, bug fixes, or want to explore different aspects of the model, feel free to create a pull request.
+
+## Licence
+This project is licensed under the MIT License.
 
 
 <!--- Animated Line: --->
