@@ -1,19 +1,20 @@
 # Diabetes Prediction KNN Model and Web App
+<a name="top"></a>
 
 ![Diabetes Prediction Model](https://github.com/amangupta143/Diabetes-Prediction-KNN/assets/109453339/69e89fbf-683f-461d-8198-9ee2f04c7ab2)
 
 This repository provides a K-Nearest Neighbors (KNN) model `trained_model.sav` for diabetes prediction using patient data, along with a Streamlit web application `Diabetes_Prediction_Web_App.py` for interactive risk assessment.
 
 ## Table of Contents
-- Objective
-- Data
-- Features
-- Model
-- Benefits
-- Getting Started (Jupyter Notebook)
-- Using the Web App
-- Contributing
-- Licence
+- [Objective](#-objective)
+- [Data](#-data)
+- [Features](#-features)
+- [Model](#-model)
+- [Benefits](#-benefits)
+- [Getting Started (Jupyter Notebook)](#-getting-started-(jupyter-notebook))
+- [Using the Web App](#-using-the-web-app)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## Objective
 This repository aims to:
@@ -78,7 +79,7 @@ These models are not meant for sole diagnosis but can be a valuable tool for ris
 - In the Jupyter Notebook interface, open the Diabetes-Prediction-Model.ipynb file.
 - Run each code cell (block of code) by pressing `Shift + Enter`. The output of the code will be displayed below the cell.
 
-## Using the Web App:
+## Using the Web App
 This project also includes a web application built with Streamlit.  Here's how to use it:
 1. Ensure you have Python and Streamlit installed.
 2. Open a terminal or command prompt and navigate to the project directory.
@@ -91,6 +92,7 @@ This project also includes a web application built with Streamlit.  Here's how t
 
 I welcome contributions to this repository! If you have ideas for improvement, bug fixes, or want to explore different aspects of the model, feel free to create a pull request.
 
+<a name="license"></a>
 ## Licence
 This project is licensed under the MIT License.
 
@@ -105,3 +107,5 @@ Happy coding! 🚀
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://github.com/amangupta143)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amangupta143)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amangupta143/)
+
+[Back to top](#top)
